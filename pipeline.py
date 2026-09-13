@@ -1,4 +1,4 @@
-﻿import duckdb
+import duckdb
 import logging
 import os
 
